@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Data files (raw and processed)
+data/processed/
+data/raw/
+
+# Model artifacts
+models/
+*.pkl
+*.joblib
+
+# Output figures and reports
+outputs/
+*.png
+*.jpg
+*.pdf
+*.csv
+
+# VS Code settings
+.vscode/
+
+# MacOS/Linux system files
+.DS_Store
+Thumbs.db
