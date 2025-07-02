@@ -20,22 +20,6 @@ ENV/
 *.out
 *.tmp
 
-# Data files (raw and processed)
-data/processed/
-data/raw/
-
-# Model artifacts
-models/
-*.pkl
-*.joblib
-
-# Output figures and reports
-outputs/
-*.png
-*.jpg
-*.pdf
-*.csv
-
 # VS Code settings
 .vscode/
 
