@@ -1,4 +1,4 @@
-# 📋 Project Notes: Insurance Risk Prediction – Production Readiness
+# Insurance Risk Prediction – Production Readiness
 
 This document outlines key considerations for productionizing the insurance claim prediction model built using XGBoost and SHAP explainability.
 
